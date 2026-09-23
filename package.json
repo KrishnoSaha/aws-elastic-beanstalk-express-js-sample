@@ -12,6 +12,7 @@
   },
   "license": "MIT-0",
   "dependencies": {
-    "express": "^4.22.2"
+    "express": "^4.22.2",
+    "minimist": "1.2.0"
   }
 }
